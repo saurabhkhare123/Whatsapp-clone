@@ -6,10 +6,14 @@ import Chat from "./Chat"
 function App() {
   return (
     <div className="app">
-      
-     
-  <Sidebar/>
+    <  div className="app_body" >
+    <Sidebar/>
    <Chat />
+
+    </div>
+
+     
+  
       
     </div>
   );
