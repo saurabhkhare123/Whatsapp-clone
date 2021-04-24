@@ -27,7 +27,7 @@
 
 .chat_body {
     flex: 1;
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.yz7GribD7h1ASkPiAlsmjgHaDn%26pid%3DApi&f=1");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vf7WUA3UcxPcOk4XFPUtvgHaD5%26pid%3DApi&f=1");
     background-size: cover;
     background-position: center;
     padding: 30px;
@@ -77,6 +77,7 @@
 
 .chat_footer > form > input {
     flex:1;
+    outline-width: 0;
     border-radius: 30px;
     padding: 10px;
     border: none;
